@@ -1,0 +1,27 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bfd_pipeline"
+version = "0.1.0"
+description = "Feature-Function-Only Phase-Conditioned Structured Degradation pipeline (Stages 1-12)"
+requires-python = ">=3.10"
+dependencies = [
+    "numpy>=1.24",
+    "scipy>=1.10",
+    "h5py>=3.8",
+    "pyyaml>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+# robosuite/mujoco are needed only for Stage 3 (state replay) and Stage 8+ (rollouts).
+sim = ["robosuite>=1.4", "mujoco>=3.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"
