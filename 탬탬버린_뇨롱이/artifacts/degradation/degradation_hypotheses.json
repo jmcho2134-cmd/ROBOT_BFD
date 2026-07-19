@@ -1,0 +1,136 @@
+{
+  "demo_1": [
+    {
+      "phase": 0,
+      "feature": "eef_object_dist",
+      "mode": "reverse_change",
+      "degrade_sign": 1.0
+    },
+    {
+      "phase": 0,
+      "feature": "object_goal_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 0,
+      "feature": "gripper_open",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 0,
+      "feature": "contact",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 1,
+      "feature": "gripper_open",
+      "mode": "reverse_change",
+      "degrade_sign": -1.0
+    },
+    {
+      "phase": 1,
+      "feature": "contact",
+      "mode": "reverse_change",
+      "degrade_sign": -1.0
+    },
+    {
+      "phase": 1,
+      "feature": "eef_object_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 1,
+      "feature": "object_goal_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 1,
+      "feature": "grasp_align",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 2,
+      "feature": "object_goal_dist",
+      "mode": "reverse_change",
+      "degrade_sign": 1.0
+    },
+    {
+      "phase": 2,
+      "feature": "gripper_open",
+      "mode": "reverse_change",
+      "degrade_sign": -1.0
+    },
+    {
+      "phase": 2,
+      "feature": "eef_object_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 2,
+      "feature": "contact",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 3,
+      "feature": "gripper_open",
+      "mode": "reverse_change",
+      "degrade_sign": 1.0
+    },
+    {
+      "phase": 3,
+      "feature": "contact",
+      "mode": "reverse_change",
+      "degrade_sign": 1.0
+    },
+    {
+      "phase": 3,
+      "feature": "eef_object_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 3,
+      "feature": "object_goal_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 4,
+      "feature": "eef_object_dist",
+      "mode": "reverse_change",
+      "degrade_sign": -1.0
+    },
+    {
+      "phase": 4,
+      "feature": "gripper_open",
+      "mode": "reverse_change",
+      "degrade_sign": 1.0
+    },
+    {
+      "phase": 4,
+      "feature": "object_goal_dist",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 4,
+      "feature": "contact",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    },
+    {
+      "phase": 4,
+      "feature": "grasp_align",
+      "mode": "disturb_hold",
+      "degrade_sign": 0.0
+    }
+  ]
+}

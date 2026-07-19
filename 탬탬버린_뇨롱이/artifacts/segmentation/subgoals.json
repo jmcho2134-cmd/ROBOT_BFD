@@ -1,0 +1,181 @@
+{
+  "demo_1": {
+    "0": {
+      "main": {
+        "feature": "eef_object_dist",
+        "degrade_sign": 1.0
+      },
+      "change": [
+        {
+          "feature": "eef_object_dist",
+          "degrade_sign": 1.0
+        }
+      ],
+      "hold": [
+        "object_goal_dist",
+        "gripper_open",
+        "contact"
+      ],
+      "passive": [
+        "grasp_align",
+        "object_height",
+        "eef_speed",
+        "object_speed",
+        "action_magnitude",
+        "eef_accel",
+        "eef_jerk",
+        "object_slip",
+        "eef_ang_speed",
+        "object_ang_speed"
+      ],
+      "window": [
+        0,
+        253
+      ]
+    },
+    "1": {
+      "main": {
+        "feature": "gripper_open",
+        "degrade_sign": -1.0
+      },
+      "change": [
+        {
+          "feature": "gripper_open",
+          "degrade_sign": -1.0
+        },
+        {
+          "feature": "contact",
+          "degrade_sign": -1.0
+        }
+      ],
+      "hold": [
+        "eef_object_dist",
+        "object_goal_dist",
+        "grasp_align"
+      ],
+      "passive": [
+        "object_height",
+        "eef_speed",
+        "object_speed",
+        "action_magnitude",
+        "eef_accel",
+        "eef_jerk",
+        "object_slip",
+        "eef_ang_speed",
+        "object_ang_speed"
+      ],
+      "window": [
+        251,
+        290
+      ]
+    },
+    "2": {
+      "main": {
+        "feature": "object_goal_dist",
+        "degrade_sign": 1.0
+      },
+      "change": [
+        {
+          "feature": "object_goal_dist",
+          "degrade_sign": 1.0
+        },
+        {
+          "feature": "gripper_open",
+          "degrade_sign": -1.0
+        }
+      ],
+      "hold": [
+        "eef_object_dist",
+        "contact"
+      ],
+      "passive": [
+        "grasp_align",
+        "object_height",
+        "eef_speed",
+        "object_speed",
+        "action_magnitude",
+        "eef_accel",
+        "eef_jerk",
+        "object_slip",
+        "eef_ang_speed",
+        "object_ang_speed"
+      ],
+      "window": [
+        288,
+        483
+      ]
+    },
+    "3": {
+      "main": {
+        "feature": "gripper_open",
+        "degrade_sign": 1.0
+      },
+      "change": [
+        {
+          "feature": "gripper_open",
+          "degrade_sign": 1.0
+        },
+        {
+          "feature": "contact",
+          "degrade_sign": 1.0
+        }
+      ],
+      "hold": [
+        "eef_object_dist",
+        "object_goal_dist"
+      ],
+      "passive": [
+        "grasp_align",
+        "object_height",
+        "eef_speed",
+        "object_speed",
+        "action_magnitude",
+        "eef_accel",
+        "eef_jerk",
+        "object_slip",
+        "eef_ang_speed",
+        "object_ang_speed"
+      ],
+      "window": [
+        481,
+        570
+      ]
+    },
+    "4": {
+      "main": {
+        "feature": "eef_object_dist",
+        "degrade_sign": -1.0
+      },
+      "change": [
+        {
+          "feature": "eef_object_dist",
+          "degrade_sign": -1.0
+        },
+        {
+          "feature": "gripper_open",
+          "degrade_sign": 1.0
+        }
+      ],
+      "hold": [
+        "object_goal_dist",
+        "contact",
+        "grasp_align"
+      ],
+      "passive": [
+        "object_height",
+        "eef_speed",
+        "object_speed",
+        "action_magnitude",
+        "eef_accel",
+        "eef_jerk",
+        "object_slip",
+        "eef_ang_speed",
+        "object_ang_speed"
+      ],
+      "window": [
+        568,
+        600
+      ]
+    }
+  }
+}

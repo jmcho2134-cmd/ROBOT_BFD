@@ -1,0 +1,22 @@
+{
+  "p0:rotation:39": null,
+  "p0:position:12": null,
+  "p0:gripper:rev": 1.0,
+  "p0:rotation:31": null,
+  "p1:rotation:47": 0.15000000000000002,
+  "p1:position:14": 0.1375,
+  "p1:gripper:rev": null,
+  "p1:rotation:21": 0.125,
+  "p2:rotation:39": 0.1125,
+  "p2:position:36": 0.07500000000000001,
+  "p2:gripper:rev": 1.0,
+  "p2:rotation:5": 0.1125,
+  "p3:rotation:20": 0.3375,
+  "p3:position:37": 0.36250000000000004,
+  "p3:gripper:rev": null,
+  "p3:rotation:39": 0.32500000000000007,
+  "p4:rotation:12": 3.2,
+  "p4:position:44": 1.0,
+  "p4:gripper:rev": 1.0,
+  "p4:rotation:4": 2.8875
+}

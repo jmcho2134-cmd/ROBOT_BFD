@@ -1,0 +1,8 @@
+{
+  "schema_version": "degradation-1",
+  "n_hypotheses": 22,
+  "n_candidates_validated": 20,
+  "n_accepted": 10,
+  "family_yield": 0.5,
+  "monotonicity_rate": 0.6
+}

@@ -1,0 +1,13 @@
+{
+  "status": "per_demo_only",
+  "note": "multi-demo canonical alignment 는 다음 패스(Sec 6.3/6.7). 현재는 데모별 독립 phase sequence 만 기록.",
+  "per_demo_phase_labels": {
+    "demo_1": [
+      "eef_object_dist:reached",
+      "gripper_open:close",
+      "object_goal_dist:reached",
+      "gripper_open:open",
+      "final"
+    ]
+  }
+}

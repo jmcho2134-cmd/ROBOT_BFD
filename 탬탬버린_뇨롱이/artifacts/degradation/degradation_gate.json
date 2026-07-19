@@ -1,0 +1,9 @@
+{
+  "schema_version": "degradation-1",
+  "any_validated_family": true,
+  "all_accepted_monotone": true,
+  "all_accepted_graded": true,
+  "all_accepted_success_core": true,
+  "all_accepted_reproduce_demo": true,
+  "PASS": true
+}

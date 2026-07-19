@@ -1,0 +1,15 @@
+{
+  "schema_version": "segmentation-1",
+  "per_demo": {
+    "demo_1": {
+      "phase_count_ok": true,
+      "min_phase_length_ok": true,
+      "subgoal_nonempty": true,
+      "no_hardcoded_phase_names": true,
+      "goal_from_context": true,
+      "PASS": true
+    }
+  },
+  "PASS": true,
+  "goal_context_all": true
+}

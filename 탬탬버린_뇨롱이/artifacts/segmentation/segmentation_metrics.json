@@ -1,0 +1,25 @@
+{
+  "schema_version": "segmentation-1",
+  "n_demos": 1,
+  "profiles_used": true,
+  "min_score": 0.15,
+  "per_demo": {
+    "demo_1": {
+      "n_phases": 5,
+      "bounds": [
+        251,
+        288,
+        481,
+        568
+      ],
+      "seg_lengths": [
+        251,
+        37,
+        193,
+        87,
+        32
+      ],
+      "profile_gated": []
+    }
+  }
+}

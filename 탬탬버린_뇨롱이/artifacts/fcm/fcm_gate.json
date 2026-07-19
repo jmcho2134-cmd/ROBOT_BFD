@@ -1,0 +1,8 @@
+{
+  "subgoal_r2_ok": true,
+  "zero_delta_ok": true,
+  "group_split": true,
+  "phase_conditioned": true,
+  "topk_beats_random": true,
+  "PASS": true
+}

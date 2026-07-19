@@ -1,0 +1,802 @@
+[
+  {
+    "tag": "demo_1",
+    "cid": "p0:rotation:39",
+    "phase": 0,
+    "subspace": "rotation",
+    "accepted": false,
+    "lam_max": null,
+    "lambda_values": null,
+    "actual_degradation_scores": null,
+    "success_flags": null,
+    "clip_fractions": null,
+    "monotone": null,
+    "graded": null,
+    "direction": [],
+    "reproduces_demo": null
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p0:position:12",
+    "phase": 0,
+    "subspace": "position",
+    "accepted": false,
+    "lam_max": null,
+    "lambda_values": null,
+    "actual_degradation_scores": null,
+    "success_flags": null,
+    "clip_fractions": null,
+    "monotone": null,
+    "graded": null,
+    "direction": [],
+    "reproduces_demo": null
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p0:gripper:rev",
+    "phase": 0,
+    "subspace": "gripper",
+    "accepted": false,
+    "lam_max": 1.0,
+    "lambda_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "actual_degradation_scores": [
+      0.18366360916727462,
+      0.18366360916843782,
+      0.18366360916737556,
+      0.18366360916716437,
+      0.18366360916751207
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": false,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p0:rotation:31",
+    "phase": 0,
+    "subspace": "rotation",
+    "accepted": false,
+    "lam_max": null,
+    "lambda_values": null,
+    "actual_degradation_scores": null,
+    "success_flags": null,
+    "clip_fractions": null,
+    "monotone": null,
+    "graded": null,
+    "direction": [],
+    "reproduces_demo": null
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p1:rotation:47",
+    "phase": 1,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.15000000000000002,
+    "lambda_values": [
+      0.0,
+      0.0375,
+      0.075,
+      0.1125,
+      0.15
+    ],
+    "actual_degradation_scores": [
+      0.10043192661502384,
+      0.7918579651765275,
+      1.1801617312038952,
+      2.056371324587004,
+      3.3652996674536557
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      -0.5588696064246711,
+      -0.4341258325853382,
+      0.706540532804528,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p1:position:14",
+    "phase": 1,
+    "subspace": "position",
+    "accepted": true,
+    "lam_max": 0.1375,
+    "lambda_values": [
+      0.0,
+      0.03438,
+      0.06875,
+      0.10313,
+      0.1375
+    ],
+    "actual_degradation_scores": [
+      0.10043192446760149,
+      0.2915570584811832,
+      0.7957585298539308,
+      1.3633365496621708,
+      2.628399138965805
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.17632763691127404,
+      -0.9053621253190137,
+      0.38630038376621517,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p1:gripper:rev",
+    "phase": 1,
+    "subspace": "gripper",
+    "accepted": false,
+    "lam_max": null,
+    "lambda_values": null,
+    "actual_degradation_scores": null,
+    "success_flags": null,
+    "clip_fractions": null,
+    "monotone": null,
+    "graded": null,
+    "direction": [],
+    "reproduces_demo": null
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p1:rotation:21",
+    "phase": 1,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.125,
+    "lambda_values": [
+      0.0,
+      0.03125,
+      0.0625,
+      0.09375,
+      0.125
+    ],
+    "actual_degradation_scores": [
+      0.10043192446794692,
+      0.8110288721945282,
+      1.6025732110347128,
+      2.038911011417519,
+      3.403919680545779
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      -0.9378910235336437,
+      -0.10606175096132701,
+      0.33032004625368755,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p2:rotation:39",
+    "phase": 2,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.1125,
+    "lambda_values": [
+      0.0,
+      0.02813,
+      0.05625,
+      0.08438,
+      0.1125
+    ],
+    "actual_degradation_scores": [
+      0.41914433454259153,
+      0.6855724195192718,
+      1.4366858383035777,
+      2.651877625112993,
+      4.703409030518625
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      -0.015799778638589126,
+      -0.9996355124322281,
+      0.02189084916833717,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p2:position:36",
+    "phase": 2,
+    "subspace": "position",
+    "accepted": true,
+    "lam_max": 0.07500000000000001,
+    "lambda_values": [
+      0.0,
+      0.01875,
+      0.0375,
+      0.05625,
+      0.075
+    ],
+    "actual_degradation_scores": [
+      0.41672500468302254,
+      1.4360533821921548,
+      2.546811853012987,
+      3.678308871961605,
+      4.8323730045590185
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.4860133684788584,
+      0.4860133763839286,
+      0.4860133790189496,
+      0.48601338033646013
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.49213578562690924,
+      -0.35054524946121524,
+      0.7968189233347822,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p2:gripper:rev",
+    "phase": 2,
+    "subspace": "gripper",
+    "accepted": false,
+    "lam_max": 1.0,
+    "lambda_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "actual_degradation_scores": [
+      0.41905290735633205,
+      0.4183743253739393,
+      0.41831889076045825,
+      0.41470041465312996,
+      3.7473535915322573
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": false,
+    "graded": false,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      -1.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p2:rotation:5",
+    "phase": 2,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.1125,
+    "lambda_values": [
+      0.0,
+      0.02813,
+      0.05625,
+      0.08438,
+      0.1125
+    ],
+    "actual_degradation_scores": [
+      0.4177841209262227,
+      0.6432529491608894,
+      1.3008481394582332,
+      2.6031902650870165,
+      4.287444701424127
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      -0.1739063964526662,
+      -0.9181982154936882,
+      -0.35590532777102657,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p3:rotation:20",
+    "phase": 3,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.3375,
+    "lambda_values": [
+      0.0,
+      0.08438,
+      0.16875,
+      0.25313,
+      0.3375
+    ],
+    "actual_degradation_scores": [
+      0.24444315586904725,
+      1.1217633997760939,
+      3.486229364818717,
+      6.434621560970875,
+      8.267178874341083
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.21467616438946577,
+      -0.9540506060813768,
+      -0.20904924174371178,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p3:position:37",
+    "phase": 3,
+    "subspace": "position",
+    "accepted": true,
+    "lam_max": 0.36250000000000004,
+    "lambda_values": [
+      0.0,
+      0.09063,
+      0.18125,
+      0.27188,
+      0.3625
+    ],
+    "actual_degradation_scores": [
+      0.2380918170385567,
+      2.170894604333714,
+      2.3969467941803546,
+      2.5696917169216285,
+      2.5736908202635336
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      false
+    ],
+    "clip_fractions": [
+      0.0,
+      0.11342319119938213,
+      0.11342319168719087,
+      0.11342319184981724,
+      0.11342319193112181
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      -0.9761633160330049,
+      -0.14548854862387386,
+      0.1610536017818795,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p3:gripper:rev",
+    "phase": 3,
+    "subspace": "gripper",
+    "accepted": false,
+    "lam_max": null,
+    "lambda_values": null,
+    "actual_degradation_scores": null,
+    "success_flags": null,
+    "clip_fractions": null,
+    "monotone": null,
+    "graded": null,
+    "direction": [],
+    "reproduces_demo": null
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p3:rotation:39",
+    "phase": 3,
+    "subspace": "rotation",
+    "accepted": true,
+    "lam_max": 0.32500000000000007,
+    "lambda_values": [
+      0.0,
+      0.08125,
+      0.1625,
+      0.24375,
+      0.325
+    ],
+    "actual_degradation_scores": [
+      0.24928437948306184,
+      0.9788595233470037,
+      3.205527078824975,
+      5.88437526461223,
+      7.926409644013447
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.3257832801045601,
+      -0.9434017343375716,
+      0.06211619796182674,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p4:rotation:12",
+    "phase": 4,
+    "subspace": "rotation",
+    "accepted": false,
+    "lam_max": 3.2,
+    "lambda_values": [
+      0.0,
+      0.8,
+      1.6,
+      2.4,
+      3.2
+    ],
+    "actual_degradation_scores": [
+      -0.08091023308366246,
+      8.625417872530523,
+      4.770908717975519,
+      2.48420443880509,
+      3.244273586524452
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.21057593486202006,
+      0.35629267511881835,
+      0.44843483152871255
+    ],
+    "monotone": false,
+    "graded": false,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.9260634630441599,
+      0.34007030843173536,
+      -0.16358070710315956,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p4:position:44",
+    "phase": 4,
+    "subspace": "position",
+    "accepted": true,
+    "lam_max": 1.0,
+    "lambda_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "actual_degradation_scores": [
+      -0.06827960950193313,
+      -0.017354545289317458,
+      0.6481078684179153,
+      1.838804250646679,
+      1.520627848636854
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": true,
+    "direction": [
+      0.21617002454265866,
+      -0.9590865364210631,
+      -0.18282104950552672,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p4:gripper:rev",
+    "phase": 4,
+    "subspace": "gripper",
+    "accepted": false,
+    "lam_max": 1.0,
+    "lambda_values": [
+      0.0,
+      0.25,
+      0.5,
+      0.75,
+      1.0
+    ],
+    "actual_degradation_scores": [
+      -0.09879289494025674,
+      -0.09618573638094907,
+      -0.09368614349936588,
+      -0.08923648814921625,
+      3.6607694842625977
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "monotone": true,
+    "graded": false,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ],
+    "reproduces_demo": true
+  },
+  {
+    "tag": "demo_1",
+    "cid": "p4:rotation:4",
+    "phase": 4,
+    "subspace": "rotation",
+    "accepted": false,
+    "lam_max": 2.8875,
+    "lambda_values": [
+      0.0,
+      0.72188,
+      1.44375,
+      2.16563,
+      2.8875
+    ],
+    "actual_degradation_scores": [
+      -0.07809818583308295,
+      10.752976295449592,
+      9.928522375530621,
+      8.581854732018384,
+      8.523765937268825
+    ],
+    "success_flags": [
+      true,
+      true,
+      true,
+      true,
+      true
+    ],
+    "clip_fractions": [
+      0.0,
+      0.0,
+      0.1008235223408758,
+      0.3330804458309497,
+      0.49921994102048634
+    ],
+    "monotone": false,
+    "graded": false,
+    "direction": [
+      0.0,
+      0.0,
+      0.0,
+      0.8327515261374283,
+      0.5536372164936055,
+      0.0032753969850997477,
+      0.0
+    ],
+    "reproduces_demo": true
+  }
+]

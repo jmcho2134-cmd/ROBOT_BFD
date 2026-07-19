@@ -1,0 +1,104 @@
+{
+  "demo_1": [
+    {
+      "cid": "p0:rotation:39",
+      "subspace": "rotation",
+      "pred_score": 7.052603537989009
+    },
+    {
+      "cid": "p0:position:12",
+      "subspace": "position",
+      "pred_score": 4.945938912887483
+    },
+    {
+      "cid": "p0:gripper:rev",
+      "subspace": "gripper",
+      "pred_score": 0.41638902139499
+    },
+    {
+      "cid": "p0:rotation:31",
+      "subspace": "rotation",
+      "pred_score": 6.983478820130923
+    },
+    {
+      "cid": "p1:rotation:47",
+      "subspace": "rotation",
+      "pred_score": 10.957708480525028
+    },
+    {
+      "cid": "p1:position:14",
+      "subspace": "position",
+      "pred_score": 5.348761319393294
+    },
+    {
+      "cid": "p1:gripper:rev",
+      "subspace": "gripper",
+      "pred_score": 1.1605925488824085
+    },
+    {
+      "cid": "p1:rotation:21",
+      "subspace": "rotation",
+      "pred_score": 10.53806721985363
+    },
+    {
+      "cid": "p2:rotation:39",
+      "subspace": "rotation",
+      "pred_score": 6.5428090968445805
+    },
+    {
+      "cid": "p2:position:36",
+      "subspace": "position",
+      "pred_score": 4.181296155956363
+    },
+    {
+      "cid": "p2:gripper:rev",
+      "subspace": "gripper",
+      "pred_score": 1.2684003357603553
+    },
+    {
+      "cid": "p2:rotation:5",
+      "subspace": "rotation",
+      "pred_score": 6.258200992455103
+    },
+    {
+      "cid": "p3:rotation:20",
+      "subspace": "rotation",
+      "pred_score": 5.934824502144772
+    },
+    {
+      "cid": "p3:position:37",
+      "subspace": "position",
+      "pred_score": 2.4126836834193037
+    },
+    {
+      "cid": "p3:gripper:rev",
+      "subspace": "gripper",
+      "pred_score": -0.006126661820259005
+    },
+    {
+      "cid": "p3:rotation:39",
+      "subspace": "rotation",
+      "pred_score": 5.880509754458105
+    },
+    {
+      "cid": "p4:rotation:12",
+      "subspace": "rotation",
+      "pred_score": 6.718055926972032
+    },
+    {
+      "cid": "p4:position:44",
+      "subspace": "position",
+      "pred_score": 3.014928553335217
+    },
+    {
+      "cid": "p4:gripper:rev",
+      "subspace": "gripper",
+      "pred_score": 0.30550916662766797
+    },
+    {
+      "cid": "p4:rotation:4",
+      "subspace": "rotation",
+      "pred_score": 6.380390025212185
+    }
+  ]
+}

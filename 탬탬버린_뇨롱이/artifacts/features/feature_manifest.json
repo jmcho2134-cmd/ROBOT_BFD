@@ -1,0 +1,44 @@
+{
+  "schema_version": "features-1",
+  "feature_name_order": [
+    "eef_object_dist",
+    "object_goal_dist",
+    "gripper_open",
+    "contact",
+    "grasp_align",
+    "object_height",
+    "eef_speed",
+    "object_speed",
+    "action_magnitude",
+    "eef_accel",
+    "eef_jerk",
+    "object_slip",
+    "eef_ang_speed",
+    "object_ang_speed"
+  ],
+  "n_features": 14,
+  "n_demos": 1,
+  "kinds": [
+    "progress",
+    "progress",
+    "event",
+    "event",
+    "progress",
+    "quality",
+    "quality",
+    "quality",
+    "quality",
+    "quality",
+    "quality",
+    "quality",
+    "quality",
+    "quality"
+  ],
+  "boundary": [
+    "eef_object_dist",
+    "object_goal_dist",
+    "gripper_open"
+  ],
+  "seed": 42,
+  "goal_from_context": true
+}

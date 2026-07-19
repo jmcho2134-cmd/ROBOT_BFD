@@ -1,0 +1,11 @@
+{
+  "available": true,
+  "phase": 2,
+  "n_cand": 48,
+  "spearman": 0.9305254016500217,
+  "topk": 5,
+  "topk_recall": 0.8,
+  "best_candidate_included": 1,
+  "random_recall": 0.10416666666666667,
+  "lift_over_random": 0.6958333333333334
+}

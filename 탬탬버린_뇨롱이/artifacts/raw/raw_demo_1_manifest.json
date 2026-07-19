@@ -1,0 +1,42 @@
+{
+  "schema_version": "raw-1",
+  "environment_name": "PickPlaceBread",
+  "robot_name": [
+    "UR5e"
+  ],
+  "controller_name": "OSC_POSE",
+  "action_dimension": 7,
+  "control_frequency": 20,
+  "object_type": "bread",
+  "source_demo_path": "/home/jaemin/Desktop/탬탬버린_뇨롱이/demos/PickPlaceBread_UR5e/demo_1/demo.hdf5",
+  "source_demo_checksum": "44ecbfe18fc22a39a2e5460b16406001b112a7039afec832e921aafbb7617974",
+  "goal_from_context": true,
+  "goal_context": {
+    "type": "target_region",
+    "target_pos": [
+      0.0025000000000000022,
+      0.15750000000000003,
+      0.8
+    ],
+    "position_tolerance": 0.03
+  },
+  "state_restore_max_error": 0.0,
+  "n_steps": 600,
+  "feature_name_order": [
+    "eef_object_dist",
+    "object_goal_dist",
+    "gripper_open",
+    "contact",
+    "grasp_align",
+    "object_height",
+    "eef_speed",
+    "object_speed",
+    "action_magnitude",
+    "eef_accel",
+    "eef_jerk",
+    "object_slip",
+    "eef_ang_speed",
+    "object_ang_speed"
+  ],
+  "created_at": "2026-07-19T12:22:59"
+}
